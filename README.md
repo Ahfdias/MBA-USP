@@ -1,4 +1,4 @@
-# MBA-USP
+# O conjunto de dados de fadiga de aços (NIMS)
 
 O conjunto de dados de fadiga de aços (NIMS) do Instituto Nacional de Ciência de Materiais foi usado neste trabalho, sendo reconhecido na literatura como um dosmaiores bancos de dados do mundo com detalhes sobre a composição química, propriedadesmecânicas oriundas do processo de laminação e parâmetros relacionados ao processo detratamento térmico. O banco de dados inclui aços carbono e de baixa liga.
 
