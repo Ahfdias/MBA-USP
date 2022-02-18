@@ -13,28 +13,53 @@ Os dados usados neste trabalho possuem 437 instâncias, 25 atributos e 1 variáv
 
 Feature	Details
 C	        %Carbon
+
 Si	      %Silicon
+
 Mn	      %Manganese
+
 P	        %Phosphorus
+
 S	        %Sulphur
+
 Ni	      %Nickel
+
 Cr	      %Chromium
+
 Cu	      %Copper
+
 Mo	      %Molybdenum
+
 NT	      Normalizing Temperature
+
 THT	      Through HardeningTemperature
+
 THt	      Through HardeningTime
+
 THQCr	    Cooling Rate for Through Hardening
+
 CT	      Carburization Temperature
+
 Ct	      Carburization Time
+
 DT	      Diffusion Temperature
+
 Dt	      Diffusion time
+
 QmT	      Quenching Media Temperature (for Carburization)
+
 TT	      Tempering Temperature
+
 Tt	      Tempering Time
+
 TCr	      Cooling Rate for Tempering
+
 RedRatio	Reduction Ratio(IngottoBar)
+
 dA	      Area Proportion of Inclusions Deformed by Plastic Work
+
 dB	      Area Proportion of Inclusion Occurring in Discont. Array
+
 dC	      Area Proportion of Isolated Inclusions
+
 Fatigue	  Fatigue Strength ( 107 , rotating bending cycles)
