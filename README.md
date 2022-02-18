@@ -12,6 +12,7 @@ Os dados de vida de fadiga, que dizem respeito aos testes de fadiga por flexãor
 Os dados usados neste trabalho possuem 437 instâncias, 25 atributos e 1 variávelobjetivo (resistência à fadiga). As 437 instâncias de dados incluem 371 referentes à açoscarbono e de baixa liga, 48 outros tipos de aço. Esses dados referem-se a vários tiposde tratamento térmico de cada tipo de aço e diferentes condições de processamento.
 
 Feature	Details
+
 C	        %Carbon
 
 Si	      %Silicon
